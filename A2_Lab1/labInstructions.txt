@@ -1,0 +1,24 @@
+Lab Assignment Requirements
+==============================
+
+Retrieve object data with a mouse click and populate the page with that data; push the lab branch to your repo and merge it.
+
+
+
+6. Unpack the lab files from FOL into the lab folder (unzip, copy and paste the contents - NOT the whole folder)
+
+7. In the carData.js file, create the appropriate properties in each of the car objects (model, price, description) using the supplied car_data.txt text file
+
+8. Write the JS variables / event handling / functions to retrieve the data and populate the elements on the index.html page.
+
+9. When you click on a car thumb, the OTHER ones should fade out so that only the active one is full opacity (there's a CSS class near the bottom of the overrides.css file to use)
+
+10. Add, commit and push your changes back to the GitHub repo
+
+11. Merge your branch to Master; leave your working branch
+
+12. Give yourselves a pat on the back - you did it!
+
+13. REMOVE YOUR WORKING FILES FROM YOUR LAB COMPUTER (IF USING)
+
+And submit the link to your repo to the lab dropbox on FOL
